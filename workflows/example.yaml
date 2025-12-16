@@ -1,0 +1,8 @@
+{
+  "id": "demo-workflow",
+  "name": "Stub workflow with retry",
+  "steps": [
+    {"id": "step-1", "name": "Call upstream service"},
+    {"id": "step-2", "name": "Persist result"}
+  ]
+}
